@@ -1,16 +1,16 @@
-## 👋 Sveiki, esu Greta!
+## Hi there! I'm Greta! 👋😊
 
 ![](https://komarev.com/ghpvc/?username=GretaKovaite&base=50&abbreviated=true)
 
-🎓 **Neseniai baigiau Vilnius Coding School ir žengiu pirmuosius žingsnius duomenų analitikos srityje.**  
-💼 **Šiuo metu ieškau naujų darbo galimybių, kuriose galėčiau pritaikyti ir toliau plėtoti savo įgūdžius.**
+🎓 **Recently graduated from Vilnius Coding School and taking my first steps in the field of data analytics.**  
+💼 **Currently seeking new job opportunities where I can apply and further develop my skills.**
 
-## 📊 Duomenų analitikos įrankiai ir įgūdžiai:
-- 🛢️ **MySQL** & **SQLite** - duomenų bazės ir užklausų rašymas
-- 📊 **Power BI** - duomenų vizualizacijos ir ataskaitų kūrimas
-- 🐍 **Python** - duomenų apdorojimas ir analizė (`pandas`, `numpy`, `matplotlib` ir kt.)
+## 📊 Data Analytics Tools and Skills:
+- 🛢️ **MySQL** & **SQLite** - database management and query writing
+- 📊 **Power BI** - data visualization and report creation
+- 🐍 **Python** - data processing and analysis (`pandas`, `numpy`, `matplotlib`, etc.)
 
-## 📫 Susisiekite:
-- **El. paštas:** [gretuke01@gmail.com](mailto:gretuke01@gmail.com)
+## 📫 Let's Connect!
+- **Email:** [gretuke01@gmail.com](mailto:gretuke01@gmail.com)
 - **LinkedIn:** [Greta Kovaitė](https://www.linkedin.com/in/greta-kovait%C4%97-255534247/)
 
