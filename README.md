@@ -11,6 +11,6 @@
 - 🐍 **Python** - duomenų apdorojimas ir analizė (`pandas`, `numpy`, `matplotlib` ir kt.)
 
 ## 📬 Susisiekime!
-- [El. paštas] gretuke01@gmail.com
-- [LinkedIn] (https://www.linkedin.com/in/greta-kovait%C4%97-255534247/)
+- El. paštas gretuke01@gmail.com
+- LinkedIn (https://www.linkedin.com/in/greta-kovait%C4%97-255534247/)
 
