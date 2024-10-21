@@ -8,8 +8,9 @@
 ## 📊 Duomenų analitikos įrankiai ir įgūdžiai:
 - 🛢️ **MySQL** & **SQLite** - duomenų bazės ir užklausų rašymas
 - 📊 **Power BI** - duomenų vizualizacijos ir ataskaitų kūrimas
-- 🐍 **Python** - duomenų apdorojimas ir analizė (`pandas`, `numpy` ir kt.)
+- 🐍 **Python** - duomenų apdorojimas ir analizė (`pandas`, `numpy`, `matplotlib` ir kt.)
 
 ## 📬 Susisiekime!
 - **El. paštas:** gretuke01@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/greta-kovait%C4%97-255534247/)
 
