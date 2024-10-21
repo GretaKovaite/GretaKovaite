@@ -1,16 +1,13 @@
-## Hi there 👋
+#👋 Sveiki, esu Greta!
 
-<!--
-**GretaKovaite/GretaKovaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Neseniai baigiau Vilnius Coding School ir žengiu pirmuosius žingsnius duomenų analitikos srityje.**  
+💼 **Šiuo metu ieškau naujų darbo galimybių, kuriose galėčiau pritaikyti ir toliau plėtoti savo įgūdžius.**
 
-Here are some ideas to get you started:
+## 📊 Duomenų analitikos įrankiai ir įgūdžiai:
+- 🛢️ **MySQL** & **SQLite** - duomenų bazės ir užklausų rašymas
+- 📊 **Power BI** - duomenų vizualizacijos ir ataskaitų kūrimas
+- 🐍 **Python** - duomenų apdorojimas, analizė ir automatizavimas (`pandas`, `numpy` ir kt.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Susisiekime!
+- **El. paštas:** gretuke01@gmail.com
+
