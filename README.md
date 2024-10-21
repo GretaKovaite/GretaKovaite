@@ -1,4 +1,4 @@
-#👋 Sveiki, esu Greta!
+## 👋 Sveiki, esu Greta!
 
 🎓 **Neseniai baigiau Vilnius Coding School ir žengiu pirmuosius žingsnius duomenų analitikos srityje.**  
 💼 **Šiuo metu ieškau naujų darbo galimybių, kuriose galėčiau pritaikyti ir toliau plėtoti savo įgūdžius.**
