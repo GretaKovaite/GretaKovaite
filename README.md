@@ -1,5 +1,7 @@
 ## 👋 Sveiki, esu Greta!
 
+![](https://komarev.com/ghpvc/?username=GretaKovaite&base=50&abbreviated=true)
+
 🎓 **Neseniai baigiau Vilnius Coding School ir žengiu pirmuosius žingsnius duomenų analitikos srityje.**  
 💼 **Šiuo metu ieškau naujų darbo galimybių, kuriose galėčiau pritaikyti ir toliau plėtoti savo įgūdžius.**
 
